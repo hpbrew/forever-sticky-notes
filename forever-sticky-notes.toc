@@ -1,0 +1,9 @@
+## Interface: 16000, 16001, 120100
+## Title: Forever Sticky Notes
+## Notes: Create and manage persistent sticky notes
+## Author: Forever Addon Family
+## Version: 1.0.0
+## SavedVariables: ForeverStickyNotesDB
+## AllowLoadGameType: camelot
+
+ForeverStickyNotes.lua
